@@ -1,3 +1,4 @@
 # Arkanoid-
 Classical arkanoid game based on android made using simple canvas feature.
-![Alt text]("https://github.com/yashkant/Arkanoid-/blob/master/Screenshot_2016-10-28-22-16-14.png")
+![Alt text]("https://raw.githubusercontent.com/yashkant/Arkanoid-//blob/master/Screenshot_2016-10-28-22-16-14.png")
+
